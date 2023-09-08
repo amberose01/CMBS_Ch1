@@ -1,0 +1,127 @@
+treenumber,treatment,sootymoldrating
+1,sdb,2
+2,lw_netted,1
+3,untreated,2
+4,untreated,2
+5,lw_netted,3
+6,both,1
+7,sdb,2
+8,untreated,2
+1491,clean,1
+10,lw_netted,3
+11,sdb_netted,1
+12,lw ,2
+13,both_netted,4
+14,untreated,2.5
+15,lw_netted,3
+16,sdb,1
+17,both_netted,3.5
+18,untreated,2
+19,untreated_netted,3
+20,both,1
+21,sdb,1
+22,clean,1
+23,untreated_netted,2
+24,untreated,3
+25,lw ,2
+26,both_netted,3
+27,untreated,2
+28,untreated,2
+29,untreated_netted,3.5
+30,sdb,2
+31,lw ,1
+32,clean,1
+33,both_netted,3
+34,sdb,3
+35,untreated,2
+1186,clean,1
+37,lw ,2
+38,lw_netted,4
+39,untreated_netted,2
+40,untreated,4
+41,both_netted,3
+42,both,1
+43,lw ,2
+1193,clean,1
+45,sdb,2
+1180,clean,1
+47,lw ,2
+48,untreated_netted,1
+49,untreated_netted,1
+50,both,2
+51,sdb_netted,3
+52,lw ,2
+53,both,2
+54,both,2
+55,both,2
+56,sdb,2
+57,sdb_netted,2
+58,untreated,2
+59,lw_netted,3
+60,both_netted,3
+61,untreated_netted,1
+62,lw_netted,1
+1177,clean,1
+63,lw_netted,2
+64,sdb_netted,2
+65,both_netted,3
+66,lw ,1
+67,both_netted,3
+68,clean,1
+69,clean,1
+70,lw ,2
+71,both_netted,2
+72,lw_netted,3
+73,both,1
+74,both_netted,2
+75,lw ,2
+76,clean,1
+77,both,2
+78,sdb_netted,1
+79,lw_netted,2
+80,both,1
+81,untreated_netted,1
+82,both_netted,2
+83,untreated,2
+84,both,1
+85,lw_netted,3
+86,lw ,1
+87,sdb,2
+88,untreated,2
+89,sdb_netted,3
+90,sdb_netted,1
+91,lw_netted,2
+92,untreated_netted,3
+93,sdb_netted,3
+94,sdb,2.5
+95,sdb,1
+1466,clean,1
+97,untreated_netted,2
+98,sdb_netted,1
+99,lw ,1
+100,sdb,2
+101,sdb_netted,1
+102,sdb_netted,2
+103,sdb_netted,3
+104,both,3
+105,both,1
+106,sdb_netted,2
+107,sdb,2
+108,both_netted,2
+109,lw_netted,2
+110,lw ,3
+111,clean,1
+112,clean,1
+113,both_netted,1
+114,untreated_netted,2
+115,untreated_netted,2
+116,untreated,2
+117,clean,1
+118,both_netted,2
+119,lw ,2
+120,sdb,2
+121,both,1
+122,sdb_netted,2
+123,clean,1
+124,untreated,1
+125,lw_netted,2

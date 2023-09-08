@@ -1,0 +1,253 @@
+treenumber,treatment,osc,fec,malec,nymphc,total_cmbs,timepoint
+1,sdb,130,6,26,0,162,initial
+2,lw_netted,12,4,30,0,46,initial
+3,untreated,54,5,32,0,91,initial
+4,untreated,17,51,48,1,117,initial
+5,lw_netted,23,3,37,0,63,initial
+6,both,9,5,10,0,24,initial
+7,sdb,37,7,23,0,67,initial
+8,untreated,19,9,44,0,72,initial
+1491,clean,0,0,0,0,0,initial
+10,lw_netted,36,8,48,3,95,initial
+11,sdb_netted,31,7,21,0,59,initial
+12,lw ,43,4,2,0,49,initial
+13,both_netted,49,10,16,0,75,initial
+14,untreated,42,24,6,23,95,initial
+15,lw_netted,27,21,82,1,131,initial
+16,sdb,16,4,14,0,34,initial
+17,both_netted,13,9,6,0,28,initial
+18,untreated,38,5,6,0,49,initial
+19,untreated_netted,2,0,5,0,7,initial
+20,both,2,0,15,0,17,initial
+21,sdb,0,2,0,0,2,initial
+22,clean,0,0,0,0,0,initial
+23,untreated_netted,4,0,3,0,7,initial
+24,untreated,15,11,24,0,50,initial
+25,lw ,1,0,12,0,13,initial
+26,both_netted,6,0,2,0,8,initial
+27,untreated,7,0,25,0,32,initial
+28,untreated,1,0,0,0,1,initial
+29,untreated_netted,3,0,0,0,3,initial
+30,sdb,6,0,6,0,12,initial
+31,lw ,2,0,2,0,4,initial
+32,clean,0,0,0,0,0,initial
+33,both_netted,3,5,7,1,16,initial
+34,sdb,4,2,9,0,15,initial
+35,untreated,1,0,0,0,1,initial
+1186,clean,0,0,0,0,0,initial
+37,lw ,10,2,16,4,32,initial
+38,lw_netted,48,24,34,9,115,initial
+39,untreated_netted,3,1,2,0,6,initial
+40,untreated,19,2,5,0,26,initial
+41,both_netted,90,13,33,0,136,initial
+42,both,2,1,0,0,3,initial
+43,lw ,5,4,1,0,10,initial
+1193,clean,0,0,0,0,0,initial
+45,sdb,10,2,22,5,39,initial
+1180,clean,0,0,0,0,0,initial
+47,lw ,15,71,39,7,132,initial
+48,untreated_netted,1,0,0,3,4,initial
+49,untreated_netted,1,1,13,5,20,initial
+50,both,30,0,12,0,42,initial
+51,sdb_netted,32,16,29,19,96,initial
+52,lw ,13,10,30,7,60,initial
+53,both,10,3,4,5,22,initial
+54,both,49,21,57,45,172,initial
+55,both,36,20,14,9,79,initial
+56,sdb,6,2,16,5,29,initial
+57,sdb_netted,43,11,54,14,122,initial
+58,untreated,12,1,5,0,18,initial
+59,lw_netted,10,9,8,1,28,initial
+60,both_netted,39,14,19,1,73,initial
+61,untreated_netted,10,5,9,0,24,initial
+62,lw_netted,24,24,73,11,132,initial
+1177,clean,0,0,0,0,0,initial
+63,lw_netted,6,6,15,0,27,initial
+64,sdb_netted,12,1,2,0,15,initial
+65,both_netted,60,0,29,0,89,initial
+66,lw ,0,12,10,0,22,initial
+67,both_netted,100,36,63,0,199,initial
+68,clean,0,0,0,0,0,initial
+69,clean,0,0,0,0,0,initial
+70,lw ,13,1,5,1,20,initial
+71,both_netted,25,2,16,0,43,initial
+72,lw_netted,41,7,7,1,56,initial
+73,both,8,4,16,18,46,initial
+74,both_netted,10,9,28,9,56,initial
+75,lw ,19,21,18,0,58,initial
+76,clean,0,0,4,0,4,initial
+77,both,26,20,32,1,79,initial
+78,sdb_netted,15,3,27,0,45,initial
+79,lw_netted,1,34,52,0,87,initial
+80,both,1,0,3,0,4,initial
+81,untreated_netted,4,26,43,0,73,initial
+82,both_netted,14,4,6,0,24,initial
+83,untreated,6,1,11,0,18,initial
+84,both,1,2,9,0,12,initial
+85,lw_netted,19,4,6,0,29,initial
+86,lw ,11,0,10,0,21,initial
+87,sdb,14,0,30,7,51,initial
+88,untreated,3,3,16,0,22,initial
+89,sdb_netted,24,0,26,0,50,initial
+90,sdb_netted,15,1,7,0,23,initial
+91,lw_netted,5,10,12,5,32,initial
+92,untreated_netted,34,5,23,2,64,initial
+93,sdb_netted,13,18,84,7,122,initial
+94,sdb,63,10,26,0,99,initial
+95,sdb,1,0,0,0,1,initial
+1466,clean,0,0,0,0,0,initial
+97,untreated_netted,38,3,9,5,55,initial
+98,sdb_netted,10,5,3,0,18,initial
+99,lw ,5,3,3,1,12,initial
+100,sdb,27,3,14,8,52,initial
+101,sdb_netted,15,1,2,0,18,initial
+102,sdb_netted,23,12,34,1,70,initial
+103,sdb_netted,8,5,5,1,19,initial
+104,both,24,10,55,33,122,initial
+105,both,1,0,1,0,2,initial
+106,sdb_netted,3,2,0,0,5,initial
+107,sdb,4,0,2,0,6,initial
+108,both_netted,20,13,19,0,52,initial
+109,lw_netted,2,1,3,0,6,initial
+110,lw ,40,18,11,1,70,initial
+111,clean,0,0,0,0,0,initial
+112,clean,0,0,4,0,4,initial
+113,both_netted,15,0,28,0,43,initial
+114,untreated_netted,39,3,109,0,151,initial
+115,untreated_netted,8,2,7,0,17,initial
+116,untreated,10,0,4,0,14,initial
+117,clean,0,0,0,0,0,initial
+118,both_netted,17,4,57,0,78,initial
+119,lw ,2,0,7,0,9,initial
+120,sdb,16,6,39,0,61,initial
+121,both,2,0,5,0,7,initial
+122,sdb_netted,7,0,19,0,26,initial
+123,clean,0,0,0,0,0,initial
+124,untreated,2,0,9,0,11,initial
+125,lw_netted,2,8,6,0,16,initial
+1,sdb,0,27,79,161,267,final
+2,lw_netted,0,2,12,193,207,final
+3,untreated,4,22,429,2194,2649,final
+4,untreated,10,18,271,1195,1494,final
+5,lw_netted,0,7,88,725,820,final
+6,both,9,14,8,27,58,final
+7,sdb,11,65,871,2090,3037,final
+8,untreated,11,8,19,833,871,final
+1491,clean,0,0,0,6,6,final
+10,lw_netted,11,74,188,1753,2026,final
+11,sdb_netted,3,4,12,21,40,final
+12,lw ,8,191,597,1319,2115,final
+13,both_netted,4,66,166,2859,3095,final
+14,untreated,33,64,216,1282,1595,final
+15,lw_netted,21,0,34,1251,1306,final
+16,sdb,5,7,81,656,749,final
+17,both_netted,11,5,19,268,303,final
+18,untreated,2,15,152,485,654,final
+19,untreated_netted,0,0,0,0,0,final
+20,both,3,36,91,160,290,final
+21,sdb,0,0,0,0,0,final
+22,clean,0,0,0,0,0,final
+23,untreated_netted,0,0,6,10,16,final
+24,untreated,51,106,88,1923,2168,final
+25,lw ,3,3,6,412,424,final
+26,both_netted,0,1,96,177,274,final
+27,untreated,1,45,228,340,614,final
+28,untreated,0,0,16,23,39,final
+29,untreated_netted,0,1,20,231,252,final
+30,sdb,0,31,217,175,423,final
+31,lw ,1,0,12,195,208,final
+32,clean,0,0,0,0,0,final
+33,both_netted,23,96,193,343,655,final
+34,sdb,12,24,139,231,406,final
+35,untreated,16,60,87,64,227,final
+1186,clean,0,0,0,0,0,final
+37,lw ,7,25,106,836,974,final
+38,lw_netted,3,2,20,696,721,final
+39,untreated_netted,1,1,22,143,167,final
+40,untreated,0,4,69,648,721,final
+41,both_netted,6,17,259,1326,1608,final
+42,both,1,27,81,130,239,final
+43,lw ,1,6,89,245,341,final
+1193,clean,0,0,10,1,11,final
+45,sdb,6,37,218,364,625,final
+1180,clean,0,0,0,0,0,final
+47,lw ,9,3,80,1712,1804,final
+48,untreated_netted,0,0,10,67,77,final
+49,untreated_netted,5,1,24,121,151,final
+50,both,3,54,527,443,1027,final
+51,sdb_netted,9,2,176,548,735,final
+52,lw ,11,7,148,367,533,final
+53,both,2,46,129,425,602,final
+54,both,9,16,72,1410,1507,final
+55,both,18,7,118,1049,1192,final
+56,sdb,22,33,36,314,405,final
+57,sdb_netted,3,2,7,361,373,final
+58,untreated,22,83,212,190,507,final
+59,lw_netted,2,0,4,249,255,final
+60,both_netted,39,24,114,771,948,final
+61,untreated_netted,0,27,31,280,338,final
+62,lw_netted,61,24,124,1044,1253,final
+1177,clean,0,1,0,0,1,final
+63,lw_netted,2,27,121,125,275,final
+64,sdb_netted,0,2,23,50,75,final
+65,both_netted,0,0,0,147,147,final
+66,lw ,4,2,1,75,82,final
+67,both_netted,10,62,1013,2325,3410,final
+68,clean,0,0,0,0,0,final
+69,clean,0,0,0,0,0,final
+70,lw ,21,8,116,445,590,final
+71,both_netted,0,57,459,698,1214,final
+72,lw_netted,11,5,103,1684,1803,final
+73,both,17,136,179,459,791,final
+74,both_netted,4,9,9,147,169,final
+75,lw ,10,16,285,1218,1529,final
+76,clean,0,0,0,0,0,final
+77,both,77,75,160,1086,1398,final
+78,sdb_netted,2,4,33,215,254,final
+79,lw_netted,57,10,43,1010,1120,final
+80,both,4,19,57,59,139,final
+81,untreated_netted,6,14,40,20,80,final
+82,both_netted,1,24,160,740,925,final
+83,untreated,50,11,58,311,430,final
+84,both,3,3,3,70,79,final
+85,lw_netted,5,48,740,933,1726,final
+86,lw ,0,36,88,222,346,final
+87,sdb,20,33,49,414,516,final
+88,untreated,13,45,83,258,399,final
+89,sdb_netted,0,0,5,9,14,final
+90,sdb_netted,0,0,5,47,52,final
+91,lw_netted,13,25,45,245,328,final
+92,untreated_netted,14,0,15,309,338,final
+93,sdb_netted,11,0,3,11,25,final
+94,sdb,0,0,65,565,630,final
+95,sdb,0,1,0,0,1,final
+1466,clean,0,0,0,0,0,final
+97,untreated_netted,16,6,80,82,184,final
+98,sdb_netted,0,0,0,0,0,final
+99,lw ,11,94,230,361,696,final
+100,sdb,2,25,205,873,1105,final
+101,sdb_netted,1,0,0,78,79,final
+102,sdb_netted,2,0,31,342,375,final
+103,sdb_netted,0,0,0,154,154,final
+104,both,26,12,222,1139,1399,final
+105,both,4,13,36,17,70,final
+106,sdb_netted,0,0,10,50,60,final
+107,sdb,5,87,486,187,765,final
+108,both_netted,6,4,17,859,886,final
+109,lw_netted,2,0,6,47,55,final
+110,lw ,24,22,173,1193,1412,final
+111,clean,0,0,0,0,0,final
+112,clean,0,1,0,0,1,final
+113,both_netted,1,5,95,329,430,final
+114,untreated_netted,0,4,124,497,625,final
+115,untreated_netted,3,56,286,315,660,final
+116,untreated,1,85,215,282,583,final
+117,clean,0,0,0,0,0,final
+118,both_netted,1,0,1,9,11,final
+119,lw ,0,16,151,69,236,final
+120,sdb,5,6,131,479,621,final
+121,both,3,0,15,219,237,final
+122,sdb_netted,2,20,49,51,122,final
+123,clean,1,0,0,0,1,final
+124,untreated,0,20,74,74,168,final
+125,lw_netted,10,0,15,297,322,final
